@@ -16,5 +16,3 @@ Perfectly separates the bass and treble of a track into two.
 1. Go to a branch for the macro you want.
 2. Go to the txt file of the macro you want to download.
 3. Right click on the "Raw" button and save link.
-
-For now there are no releases.
