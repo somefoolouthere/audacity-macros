@@ -13,7 +13,7 @@ Applies a leveler distortion effect to low frequencies to make them more noticea
 Perfectly separates the bass and treble of a track into two.
 
 # Installation
-### From the repo branches
+### From the repo
 1. Go to a branch for the macro you want.
 2. Go to the txt file of the macro you want to download.
 3. Right click on the "Raw" button and save link.
