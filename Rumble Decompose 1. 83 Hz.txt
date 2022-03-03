@@ -1,0 +1,10 @@
+SelectAll:
+SelectTracks:Mode="Set" Track="0"
+SetTrackAudio:Gain="0" Mute="0" Pan="0" Solo="0"
+MixAndRenderToNewTrack:
+SelectTracks:Mode="Set" Track="1"
+FilterCurve:f0="58.997947" f1="79.369734" f2="135.13555" FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline" v0="0" v1="-5.1575933" v2="-120"
+MixAndRenderToNewTrack:
+Invert:Use_Preset="<Factory Defaults>"
+SelectTracks:Mode="Set" Track="0" TrackCount="2"
+MixAndRender:
