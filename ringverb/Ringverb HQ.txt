@@ -1,0 +1,2 @@
+ChangeSpeed:Percentage="0.285"
+Reverb:Delay="10" DryGain="0" HfDamping="50" Reverberance="50" RoomSize="75" StereoWidth="100" ToneHigh="100" ToneLow="100" WetGain="2" WetOnly="0"
