@@ -1,0 +1,17 @@
+SelectAll:
+SelectTracks:Mode="Set" Track="0"
+SetTrackAudio:Gain="0" Mute="0" Pan="0" Solo="0"
+MixAndRenderToNewTrack:
+MixAndRenderToNewTrack:
+SelectTracks:Mode="Set" Track="0"
+Low-passFilter:frequency="250" rolloff="dB6"
+SelectTracks:Mode="Set" Track="1"
+High-passFilter:frequency="4000" rolloff="dB6"
+SelectTracks:Mode="Set" Track="2"
+Invert:Use_Preset="<Factory Defaults>"
+SelectTracks:Mode="Set" Track="0" TrackCount="3"
+MixAndRenderToNewTrack:
+SelectTracks:Mode="Set" Track="2" TrackCount="1"
+RemoveTracks:
+SelectTracks:Mode="Set" Track="2"
+Invert:Use_Preset="<Factory Defaults>"

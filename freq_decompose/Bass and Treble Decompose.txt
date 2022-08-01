@@ -1,0 +1,11 @@
+SelectAll:
+SelectTracks:Mode="Set" Track="0"
+SetTrackAudio:Gain="0" Mute="0" Pan="0" Solo="0"
+MixAndRenderToNewTrack:
+SelectTracks:Mode="Set" Track="1"
+BassAndTreble:Bass="-30" Gain="0" Link_Sliders="0" Treble="0"
+MixAndRenderToNewTrack:
+Invert:Use_Preset="<Factory Defaults>"
+SelectTracks:Mode="Set" Track="0" TrackCount="2"
+MixAndRender:
+SelectTracks:Mode="Set" Track="0" TrackCount="2"
