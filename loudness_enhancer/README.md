@@ -38,4 +38,9 @@ The normal version of the music loudener that doesn't apply the soft clipper or 
 This version will be made for Self Radio in Grand Theft Auto V. It uses a triple banded frequency decomposition and has much more compression compared to the other versions. It's made to be more consistent with Rockstar's method of compressing their radio tracks.
 
 This is currently considered very incomplete and I only uploaded it because I feel like it.
-#### You must have my Triple Banded Frequency Decompose macro for this to work!
+
+**You must have my Triple Banded Frequency Decompose macro for this to work!**
+
+**File name: Loudness Enhancer RE.txt**
+
+Note: I seem to have trouble getting it to be similar to Rockstar's method. Help would be appreciated.
