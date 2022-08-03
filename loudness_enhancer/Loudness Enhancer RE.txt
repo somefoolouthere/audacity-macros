@@ -1,0 +1,9 @@
+Macro_TripleBandedFrequencyDecompose:
+SelectTracks:Mode="Set" Track="0" TrackCount="3"
+LoudnessNormalization:DualMono="1" LUFSLevel="-10" NormalizeTo="1" RMSLevel="-15" StereoIndependent="0"
+Limiter:gain-L="0" gain-R="0" hold="1" makeup="No" thresh="0" type="SoftLimit"
+LoudnessNormalization:DualMono="1" LUFSLevel="-8" NormalizeTo="0" RMSLevel="-14" StereoIndependent="0"
+Limiter:gain-L="0" gain-R="0" hold="25" makeup="No" thresh="-10" type="SoftLimit"
+Amplify:Ratio="2.2387211"
+MixAndRender:
+Limiter:gain-L="0" gain-R="0" hold="25" makeup="No" thresh="0" type="SoftClip"
