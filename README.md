@@ -24,7 +24,7 @@ A reverb effect that increases the audio's speed slightly, causing a cool effect
 5. Click Import... and open the txt of the macro you downloaded.
 #### Alternatively
 4. Save the txt to your Audacity Macros folder.
-5. If Audacity was already running, restart.
+5. If Audacity was already running, restart or force an update to the macro list.
 
 ### ZIP File
 1. Click on the Code button and click Download ZIP or [click here to download.](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/archive/refs/heads/main.zip)
@@ -34,4 +34,4 @@ A reverb effect that increases the audio's speed slightly, causing a cool effect
 #### Alternatively
 2. Open or extract the archive.
 3. Move the txt files you want (not the folders) into your Audacity Macros folder.
-4. If Audacity was already running, restart.
+4. If Audacity was already running, restart or force an update to the macro list.
