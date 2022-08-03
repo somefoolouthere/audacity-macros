@@ -39,7 +39,7 @@ This version will be made for Self Radio in Grand Theft Auto V. It uses a triple
 
 This is currently considered very incomplete and I only uploaded it because I feel like it.
 
-**You must have my Triple Banded Frequency Decompose macro for this to work!**
+**You must have my [Triple Banded Frequency Decompose](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/freq_decompose/Triple%20Banded%20Frequency%20Decompose.txt) macro for this to work!**
 
 **File name: [Loudness Enhancer RE.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE.txt)**
 
