@@ -1,0 +1,19 @@
+SelectAll:
+SelectTracks:Mode="Set" Track="0"
+SetTrackAudio:Gain="0" Mute="0" Pan="0" Solo="0"
+MixAndRenderToNewTrack:
+SelectTracks:Mode="Set" Track="1"
+BassAndTreble:Bass="-30" Gain="0" Link_Sliders="0" Treble="0"
+MixAndRenderToNewTrack:
+Invert:Use_Preset="<Factory Defaults>"
+SelectTracks:Mode="Set" Track="0" TrackCount="2"
+MixAndRender:
+SelectTracks:Mode="Set" Track="0" TrackCount="2"
+LoudnessNormalization:DualMono="1" LUFSLevel="-6" NormalizeTo="1" RMSLevel="-14" StereoIndependent="0"
+Limiter:gain-L="0" gain-R="0" hold="1" makeup="No" thresh="0" type="SoftLimit"
+LoudnessNormalization:DualMono="1" LUFSLevel="-10" NormalizeTo="0" RMSLevel="-8" StereoIndependent="0"
+Limiter:gain-L="0" gain-R="0" hold="50" makeup="No" thresh="-3" type="SoftLimit"
+MixAndRender:
+Limiter:gain-L="0" gain-R="0" hold="50" makeup="No" thresh="0" type="SoftClip"
+LoudnessNormalization:DualMono="1" LUFSLevel="-8" NormalizeTo="0" RMSLevel="-60" StereoIndependent="0"
+Limiter:gain-L="0" gain-R="0" hold="50" makeup="Yes" thresh="-1" type="SoftLimit"
