@@ -43,13 +43,7 @@ The normal version of the music loudener that doesn't apply the soft clipper or 
 
 **File name: [Louden Music (Pre-Soft Clip).txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Louden%20Music%20(Pre-Soft%20Clip).txt)**
 
-## (Very WIP) Radio Edition (RE)
-This version will be made for Self Radio in Grand Theft Auto V. It uses a triple banded frequency decomposition and has much more compression compared to the other versions. It's made to be more consistent with Rockstar's method of compressing their radio tracks.
-
-This is currently considered very incomplete and I only uploaded it because I feel like it.
-
-**You must have my [Triple Banded Frequency Decompose](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/freq_decompose/Triple%20Banded%20Frequency%20Decompose.txt) macro for this to work!**
+## (WIP) Radio Edition (RE)
+This version will be made for Self Radio in Grand Theft Auto V. It uses a triple banded frequency decomposition and has much more dynamic range compression compared to the other versions. It's meant to be more consistent with Rockstar's method of compressing their radio tracks as of The Contract.
 
 **File name: [Loudness Enhancer RE.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE.txt)**
-
-Note: I have trouble getting it to be similar to Rockstar's method.
