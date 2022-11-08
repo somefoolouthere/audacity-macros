@@ -4,9 +4,10 @@ Makes music tracks very loud with minimal distortion. In most cases the end resu
 # Versions
 
 ## V2
-The remake of the macro. It does a better job with more calm/ambient tracks (less distortion) and better preserves "thump" sounds.
+The remake of the macro. It may do a better job with more calm/ambient tracks (less distortion) and it better preserves "thump" sounds.
 
 **File names:**
+- **V2: [Louden Music v2.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Louden%20Music%20v2.txt)**
 - **RC1: [Louden Music v2 RC1.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Louden%20Music%20v2%20RC1.txt)**
 - **Beta version 1: [v2_beta/Louden Music v2 beta 1.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/v2_beta/Louden%20Music%20v2%20beta%201.txt)**
 - **Beta version 2: [v2_beta/Louden Music v2 beta 2.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/v2_beta/Louden%20Music%20v2%20beta%202.txt)**
@@ -21,7 +22,13 @@ It's called RE (Radio Edition) since it can degrade the quality of low frequenci
 Due to the way the soft clipping works compared to using a 1 ms limiter, it has less distortion than soft clipping, so in this version, the bands are 1 dB louder before they are mixed. Results may sound slightly louder compared to the regular V2.
 
 **File names:**
-- **RC1: [Louden Music v2 RC1 RE](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Louden%20Music%20v2%20RC1%20RE.txt)**
+- **V2: [Louden Music v2 RE.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Louden%20Music%20v2%20RE.txt)**
+- **RC1: [Louden Music v2 RC1 RE.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Louden%20Music%20v2%20RC1%20RE.txt)**
+
+## Radio Edition (RE)
+This version will be made for Self Radio in Grand Theft Auto V. It uses a triple banded frequency decomposition and has much more dynamic range compression compared to the other versions. It's meant to be more consistent with Rockstar's method of compressing their radio tracks as of The Contract.
+
+**File name: [Loudness Enhancer RE.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE.txt)**
 
 ## Old Version
 The obsolete version of the music loudener.
@@ -42,8 +49,3 @@ An older version of the loudener that uses a 1 ms attack time soft limit instead
 The normal version of the music loudener that doesn't apply the soft clipper or any other effects after it. This can be used if the other versions cause too much distortion.
 
 **File name: [Louden Music (Pre-Soft Clip).txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Louden%20Music%20(Pre-Soft%20Clip).txt)**
-
-## (WIP) Radio Edition (RE)
-This version will be made for Self Radio in Grand Theft Auto V. It uses a triple banded frequency decomposition and has much more dynamic range compression compared to the other versions. It's meant to be more consistent with Rockstar's method of compressing their radio tracks as of The Contract.
-
-**File name: [Loudness Enhancer RE.txt](https://github.com/ScratcherAwesomeMinecraft2005/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE.txt)**
