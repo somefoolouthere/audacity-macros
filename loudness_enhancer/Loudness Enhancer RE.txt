@@ -26,7 +26,7 @@ MixAndRender:
 Amplify:Ratio="0.79432823"
 Limiter:gain-L="0" gain-R="0" hold="1" makeup="No" thresh="0" type="SoftLimit"
 LoudnessNormalization:DualMono="1" LUFSLevel="-6" NormalizeTo="0" RMSLevel="-12" StereoIndependent="0"
-Compressor:AttackTime="0.1" NoiseFloor="-20" Normalize="0" Ratio="10" ReleaseTime="1" Threshold="-8" UsePeak="1"
+Compressor:AttackTime="0.1" NoiseFloor="-80" Normalize="0" Ratio="10" ReleaseTime="1" Threshold="-8" UsePeak="1"
 High-passFilter:frequency="20" rolloff="dB12"
 Low-passFilter:frequency="10000" rolloff="dB6"
 Limiter:gain-L="0.1" gain-R="0.1" hold="1" makeup="No" thresh="-0.9" type="SoftLimit"
