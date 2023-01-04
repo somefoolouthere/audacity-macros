@@ -2,8 +2,9 @@ SelectAll:
 SelectTracks:Mode="Set" Track="0"
 SetTrackAudio:Gain="0" Mute="0" Pan="0" Solo="0"
 LoudnessNormalization:DualMono="1" LUFSLevel="-10" NormalizeTo="0" RMSLevel="-8" StereoIndependent="0"
-MixAndRenderToNewTrack:
-MixAndRenderToNewTrack:
+Duplicate:
+SelectTracks:Mode="Set" Track="0"
+Duplicate:
 SelectTracks:Mode="Set" Track="0"
 Low-passFilter:frequency="200" rolloff="dB6"
 SelectTracks:Mode="Set" Track="1"
@@ -12,14 +13,14 @@ SelectTracks:Mode="Set" Track="2"
 Invert:Use_Preset="<Factory Defaults>"
 SelectTracks:Mode="Set" Track="0" TrackCount="3"
 MixAndRenderToNewTrack:
-SelectTracks:Mode="Set" Track="2" TrackCount="1"
+SelectTracks:Mode="Set" Track="2"
 RemoveTracks:
 SelectTracks:Mode="Set" Track="2"
 Invert:Use_Preset="<Factory Defaults>"
 SelectTracks:Mode="Set" Track="0" TrackCount="3"
 LoudnessNormalization:DualMono="1" LUFSLevel="-14" NormalizeTo="0" RMSLevel="-14" StereoIndependent="0"
 Limiter:gain-L="0" gain-R="0" hold="50" makeup="Yes" thresh="-10" type="SoftLimit"
-SelectTracks:Mode="Set" Track="1" TrackCount="1"
+SelectTracks:Mode="Set" Track="1"
 Amplify:Ratio="0.70794578"
 SelectTracks:Mode="Set" Track="0" TrackCount="3"
 MixAndRender:
