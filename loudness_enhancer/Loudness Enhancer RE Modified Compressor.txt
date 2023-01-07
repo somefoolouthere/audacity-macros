@@ -24,8 +24,6 @@ SelectTracks:Mode="Set" Track="1"
 Amplify:Ratio="0.70794578"
 SelectTracks:Mode="Set" Track="0" TrackCount="3"
 MixAndRender:
-Amplify:Ratio="0.79432823"
-Limiter:gain-L="0" gain-R="0" hold="1" makeup="No" thresh="0" type="HardClip"
 LoudnessNormalization:DualMono="1" LUFSLevel="-6" NormalizeTo="0" RMSLevel="-12" StereoIndependent="0"
 Compressor:AttackTime="0" NoiseFloor="-80" Normalize="0" Ratio="100" ReleaseTime="1" Threshold="-8" UsePeak="1"
 High-passFilter:frequency="20" rolloff="dB12"
