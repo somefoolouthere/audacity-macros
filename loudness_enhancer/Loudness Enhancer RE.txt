@@ -31,4 +31,4 @@ Compressor:AttackTime="0.1" NoiseFloor="-80" Normalize="0" Ratio="10" ReleaseTim
 High-passFilter:frequency="20" rolloff="dB12"
 Low-passFilter:frequency="10000" rolloff="dB6"
 Limiter:gain-L="1" gain-R="1" hold="1" makeup="No" thresh="-0.1" type="SoftLimit"
-LoudnessNormalization:DualMono="1" LUFSLevel="-10.2" NormalizeTo="0" RMSLevel="-12" StereoIndependent="0"
+LoudnessNormalization:DualMono="1" LUFSLevel="-10" NormalizeTo="0" RMSLevel="-12" StereoIndependent="0"
