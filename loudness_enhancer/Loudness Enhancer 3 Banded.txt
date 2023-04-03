@@ -2,9 +2,9 @@ SelectAll:
 SelectTracks:Mode="Set" Track="0"
 SetTrackAudio:Gain="0" Mute="0" Pan="0" Solo="0"
 LoudnessNormalization:DualMono="1" LUFSLevel="-10" NormalizeTo="0" RMSLevel="-8" StereoIndependent="0"
-Duplicate:
+MixAndRenderToNewTrack:
 SelectTracks:Mode="Set" Track="0"
-Duplicate:
+MixAndRenderToNewTrack:
 SelectTracks:Mode="Set" Track="0"
 Low-passFilter:frequency="200" rolloff="dB6"
 SelectTracks:Mode="Set" Track="1"
