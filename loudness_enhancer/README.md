@@ -32,7 +32,7 @@ Due to the way the soft clipping works compared to using a 1 ms limiter, it has 
 
 ### Radio Edition (RE)
 
-This version will be made for Self Radio in Grand Theft Auto V. It uses a triple banded frequency decomposition and has much more dynamic range compression compared to the other versions. It's meant to be more consistent with Rockstar's method of compressing their radio tracks as of The Contract.
+This version is made for Self Radio in Grand Theft Auto V. It uses a triple banded frequency decomposition and has much more dynamic range compression compared to the other versions. It's meant to mimic Rockstar's new method of processing their radio tracks in GTA V.
 
 **File names:**
 
