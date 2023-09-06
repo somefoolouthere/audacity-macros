@@ -1,6 +1,1 @@
-SelectAll:
-SelectTracks:Mode="Set" Track="0"
-SetProject:Rate="48000"
-MixAndRender:
-Normalize:ApplyGain="1" PeakLevel="0" RemoveDcOffset="0" StereoIndependent="0"
-Macro_LoudnessEnhancerREModifiedCompressor:
+C:/Users/Aidan/AppData/Roaming/audacity/Macros/Process for Self Radio MC (No TS).txt
