@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug Report
 about: Create a report to help us improve
 title: "[Bug]"
 labels: bug
@@ -7,20 +7,30 @@ assignees: ''
 
 ---
 
-# Description
+## Description
+
 A clear and concise description of what the bug is.
 
-# Reproduction Steps
+## Reproduction Steps
+
 1. Make a numbered list with steps on how to reproduce this problem.
 
-# Expected behavior
-If needed, a clear and concise description of what you expected to happen. Otherwise, remove this section.
+## Expected Behavior
 
-# Screenshots
-If applicable, add screenshots to help explain your problem. Otherwise, remove this section.
+A clear and concise description of what you expected to happen.
 
-# Workarounds
-If any, share any workarounds to this problem. Otherwise, remove this section.
+## Actual Behavior
 
-# Additional Info
-If needed, add any other context/information about the problem here. Otherwise, remove this section.
+A clear and concise description of what actually happened.
+
+## Screenshots
+
+Add screenshots to help explain your problem. **Remove this section if not needed.**
+
+## Workarounds
+
+Share any workarounds to this problem. **Remove this section if not needed.**
+
+## Additional Info
+
+Add any other context/information about the problem here. **Remove this section if not needed.**
