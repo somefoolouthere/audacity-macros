@@ -1,0 +1,7 @@
+SelectTracks:Mode="Set" Track="0"
+SelTrackStartToEnd:
+SetProject:Rate="48000"
+MixAndRender:
+Normalize:ApplyGain="1" PeakLevel="0" RemoveDcOffset="0" StereoIndependent="0"
+TruncateSilence:Action="Truncate Detected Silence" Compress="50" Independent="0" Minimum="1" Threshold="-80" Truncate="0.5"
+Macro_LoudnessEnhancerREModifiedCompressor:
