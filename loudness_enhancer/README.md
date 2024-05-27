@@ -21,7 +21,7 @@ The remake of the macro. It may do a better job with more calm/ambient tracks (l
 
 ### V2 RE
 
-It's called RE (Radio Edition) since it can degrade the quality of low frequencies similar to radio tracks in GTA V. This one is v2, but optimized for use in Self Radio/Independence FM/anything else where quality in low frequencies may not matter as much. It uses a 1 ms limiter instead of soft clipping.
+It's called RE (Radio Edition) since it can degrade the quality of low frequencies similar to radio tracks in GTA V. This one is v2, but optimized for use in Self Radio or anything else where quality in low frequencies may not matter as much. It uses a 1 ms limiter instead of soft clipping.
 
 Due to the way the soft clipping works compared to using a 1 ms limiter, it has less distortion than soft clipping, so in this version, the bands are 1 dB louder before they are mixed. Results may sound slightly louder compared to the regular V2.
 
@@ -32,17 +32,20 @@ Due to the way the soft clipping works compared to using a 1 ms limiter, it has 
 
 ### Radio Edition (RE)
 
-This version is made for Self Radio in Grand Theft Auto V. It uses a triple banded frequency decomposition and has much more dynamic range compression compared to the other versions. It's meant to mimic Rockstar's new method of processing their radio tracks in GTA V.
+This version is made for Self Radio in Grand Theft Auto V. It uses a triple banded frequency decomposition and has much more dynamic range compression compared to the other versions. It's meant to mimic the new processing method for the radio tracks in GTA V.
 
 **File names:**
 
+- **New Version (Beta): [Loudness Enhancer RE (New).txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE%20(New).txt)**
+  - This version has been fixed for Audacity 3.6.0 and is slightly improved over the "normal" version. At the time of writing, 3.6.0 is currently in development, so this version is currently considered in beta.
 - **Normal Version: [Loudness Enhancer RE.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE.txt)**
+  - Note: Only works in Audacity <3.6.0.
 - **Modified Compressor Version: [Loudness Enhancer RE Modified Compressor.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE%20Modified%20Compressor.txt)**
-  - Note: Requires the default Compressor effect to support 0 second attack time and 100:1 ratio.
+  - Note: Requires the default Compressor effect in Audacity <3.6.0 to support 0 second attack time and 100:1 ratio. Only works in Audacity <3.6.0.
 
 ### Old Version
 
-The obsolete version of the music loudener.
+The old and not so good version of the music loudener.
 
 **File name: [old/Louden Music.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/old/Louden%20Music.txt)**
 
@@ -54,7 +57,7 @@ Reduces treble by 6 dB in the initial decomposition process. In most cases it wo
 
 ### Older Version
 
-An older version of the loudener that uses a 1 ms attack time soft limit instead of soft clipping. It reduces crackling in higher frequencies but increases it in lower frequencies. It also has no final extra limiter like in the other versions and is slightly louder.
+An old version of the old version that uses a 1 ms attack time soft limit instead of soft clipping. It reduces crackling in higher frequencies but increases it in lower frequencies. It also has no final extra limiter like in the other versions and is slightly louder.
 
 **File name: [old/Louden Music (Old Version).txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/old/Louden%20Music%20(Old%20Version).txt)**
 
