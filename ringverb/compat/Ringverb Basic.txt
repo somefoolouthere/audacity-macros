@@ -1,0 +1,2 @@
+ChangeSpeed:Percentage="0.285"
+Delay(lowPassFilter):count="10" decay="3" delay="0.06" f="8000" lower="0.2" norm-level="1"
