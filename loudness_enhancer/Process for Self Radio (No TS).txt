@@ -4,3 +4,4 @@ SetProject:Rate="48000"
 MixAndRender:
 Normalize:ApplyGain="1" PeakLevel="0" RemoveDcOffset="0" StereoIndependent="0"
 Macro_LoudnessEnhancerRE:
+LoudnessNormalization:DualMono="1" LUFSLevel="-10" NormalizeTo="0" RMSLevel="-12" StereoIndependent="0"
