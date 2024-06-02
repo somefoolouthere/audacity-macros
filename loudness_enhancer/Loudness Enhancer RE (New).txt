@@ -1,7 +1,6 @@
 SelectTracks:Mode="Set" Track="0"
 SelTrackStartToEnd:
 SetTrackAudio:Gain="0" Mute="0" Pan="0" Solo="0"
-LoudnessNormalization:DualMono="1" LUFSLevel="-10" NormalizeTo="0" RMSLevel="0" StereoIndependent="0"
 MixAndRenderToNewTrack:
 SelectTracks:Mode="Set" Track="0"
 MixAndRenderToNewTrack:
@@ -30,5 +29,5 @@ LoudnessNormalization:DualMono="1" LUFSLevel="-6" NormalizeTo="0" RMSLevel="0" S
 Limiter:kneeWidthDb="0" lookaheadMs="0" makeupTargetDb="0" releaseMs="500" showGraph="0" thresholdDb="-10"
 High-passFilter:FREQUENCY="20" ROLLOFF="dB12"
 Low-passFilter:FREQUENCY="10000" ROLLOFF="dB6"
-Limiter:kneeWidthDb="0.1" lookaheadMs="0.3" makeupTargetDb="0" releaseMs="0.9" showGraph="0" thresholdDb="-1.1"
+Limiter:kneeWidthDb="0.1" lookaheadMs="0.3" makeupTargetDb="-2" releaseMs="0.9" showGraph="0" thresholdDb="-1.1"
 LoudnessNormalization:DualMono="1" LUFSLevel="-10" NormalizeTo="0" RMSLevel="0" StereoIndependent="0"
