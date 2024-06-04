@@ -18,12 +18,12 @@ The most basic version there is. It applies a delay with low pass and slightly s
 
 **File names:**
 
-- **1x: Ringverb Basic.txt**
-- **2x: Ringverb Basic 2x.txt**
-- **3x: Ringverb Basic 3x.txt**
-- **1x (Audacity <3.4.0 only): compat/Ringverb Basic.txt**
-- **2x (Audacity <3.4.0 only): compat/Ringverb Basic 2x.txt**
-- **3x (Audacity <3.4.0 only): compat/Ringverb Basic 3x.txt**
+- **1x: [Ringverb Basic.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20Basic.txt)**
+- **2x: [Ringverb Basic 2x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20Basic%202x.txt)**
+- **3x: [Ringverb Basic 3x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20Basic%203x.txt)**
+- **1x (Audacity <3.4.0 only): [compat/Ringverb Basic.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20Basic.txt)**
+- **2x (Audacity <3.4.0 only): [compat/Ringverb Basic 2x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20Basic%202x.txt)**
+- **3x (Audacity <3.4.0 only): [compat/Ringverb Basic 3x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20Basic%203x.txt)**
 
 ### HQ
 
@@ -31,12 +31,12 @@ The same as basic, but uses the high quality reverb that comes with Audacity. Do
 
 **File names:**
 
-- **1x: Ringverb HQ.txt**
-- **2x: Ringverb HQ 2x.txt**
-- **3x: Ringverb HQ 3x.txt**
-- **1x (Audacity <3.4.0 only): compat/Ringverb HQ.txt**
-- **2x (Audacity <3.4.0 only): compat/Ringverb HQ 2x.txt**
-- **3x (Audacity <3.4.0 only): compat/Ringverb HQ 3x.txt**
+- **1x: [Ringverb HQ.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20HQ.txt)**
+- **2x: [Ringverb HQ 2x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20HQ%202x.txt)**
+- **3x: [Ringverb HQ 3x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20HQ%203x.txt)**
+- **1x (Audacity <3.4.0 only): [compat/Ringverb HQ.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20HQ.txt)**
+- **2x (Audacity <3.4.0 only): [compat/Ringverb HQ 2x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20HQ%202x.txt)**
+- **3x (Audacity <3.4.0 only): [compat/Ringverb HQ 3x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20HQ%203x.txt)**
 
 ### HQ No Stereo Width
 
@@ -44,9 +44,9 @@ The same as HQ, but there is no stereo width applied. This allows for a greater 
 
 **File names:**
 
-- **1x: Ringverb HQ NS.txt**
-- **2x: Ringverb HQ NS 2x.txt**
-- **3x: Ringverb HQ NS 3x.txt**
-- **1x (Audacity <3.4.0 only): compat/Ringverb HQ NS.txt**
-- **2x (Audacity <3.4.0 only): compat/Ringverb HQ NS 2x.txt**
-- **3x (Audacity <3.4.0 only): compat/Ringverb HQ NS 3x.txt**
+- **1x: [Ringverb HQ NS.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20HQ%20NS.txt)**
+- **2x: [Ringverb HQ NS 2x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20HQ%20NS%202x.txt)**
+- **3x: [Ringverb HQ NS 3x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20HQ%20NS%203x.txt)**
+- **1x (Audacity <3.4.0 only): [compat/Ringverb HQ NS.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20HQ%20NS.txt)**
+- **2x (Audacity <3.4.0 only): [compat/Ringverb HQ NS 2x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/compat/Ringverb%20HQ%20NS%202x.txt)**
+- **3x (Audacity <3.4.0 only): [compat/Ringverb HQ NS 3x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20HQ%20NS%203x.txt)**

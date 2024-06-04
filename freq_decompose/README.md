@@ -1,6 +1,6 @@
 # Frequency Range Decomposition
 
-Macros that perfectly split a track into two based on frequency content.
+Macros that perfectly split a track into multiple based on frequency content.
 
 ## Bass and Treble Decompose
 
