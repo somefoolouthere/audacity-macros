@@ -48,5 +48,5 @@ The same as HQ, but there is no stereo width applied. This allows for a greater 
 - **2x: [Ringverb HQ NS 2x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20HQ%20NS%202x.txt)**
 - **3x: [Ringverb HQ NS 3x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/Ringverb%20HQ%20NS%203x.txt)**
 - **1x (Audacity <3.4.0 only): [compat/Ringverb HQ NS.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20HQ%20NS.txt)**
-- **2x (Audacity <3.4.0 only): [compat/Ringverb HQ NS 2x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/compat/Ringverb%20HQ%20NS%202x.txt)**
+- **2x (Audacity <3.4.0 only): [compat/Ringverb HQ NS 2x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20HQ%20NS%202x.txt)**
 - **3x (Audacity <3.4.0 only): [compat/Ringverb HQ NS 3x.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/ringverb/compat/Ringverb%20HQ%20NS%203x.txt)**
