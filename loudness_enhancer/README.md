@@ -36,8 +36,8 @@ This version is made for Self Radio in Grand Theft Auto V. It uses a triple band
 
 **File names:**
 
-- **New Version (Beta): [Loudness Enhancer RE (New).txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE%20(New).txt)**
-  - This version has been fixed for Audacity 3.6.0 and is slightly improved over the "normal" version. At the time of writing, 3.6.0 is currently in development, so this version is currently considered in beta.
+- **New Version (Audacity 3.6.0): [Loudness Enhancer RE (Upcoming).txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE%20(New).txt)**
+  - This version has been fixed for Audacity 3.6.0 and is slightly improved over the older version. It's currently in a release candidate state and will be considered the final release when 3.6.0 comes out.
 - **Normal Version: [Loudness Enhancer RE.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE.txt)**
   - Note: Only works in Audacity <3.6.0.
 - **Modified Compressor Version: [Loudness Enhancer RE Modified Compressor.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20RE%20Modified%20Compressor.txt)**
