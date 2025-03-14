@@ -40,6 +40,12 @@ This version is made for Self Radio in Grand Theft Auto V. It uses a triple band
 - **Modified Compressor (Audacity <3.6.0 only): [Loudness Enhancer RE Modified Compressor.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/obsolete/Loudness%20Enhancer%20RE%20Modified%20Compressor.txt)**
   - Note: Requires the default Compressor effect in Audacity <3.6.0 to support 0 second attack time and 100:1 ratio. Only works in Audacity <3.6.0.
 
+### Dynamics Preserving (DP)
+
+This is a heavily modified version of RE that doesn't compress the track to death and tries to preserves the dynamics as much as possible. It's currently subject to change and introduces considerably more distortion compared to RE.
+
+**File name: [Loudness Enhancer DP.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20DP.txt)**
+
 ### Old Version
 
 The old and not so good version of the music loudener.
