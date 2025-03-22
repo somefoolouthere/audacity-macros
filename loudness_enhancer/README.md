@@ -42,7 +42,9 @@ This version was originally made for Self Radio in Grand Theft Auto V. It uses a
 
 ### Dynamics Preserving (DP)
 
-This is a heavily modified version of RE that doesn't compress the track to death and tries to preserves the dynamics as much as possible. It's currently subject to change and introduces considerably more distortion compared to RE.
+This is a heavily modified version of RE that tries to preserve dynamics as much as possible, rather than compressing them to death.
+
+Although not tested, this may be used for non-music audio as well. Just keep in mind that the amount of limiting will vary depending on the perceived loudness of the audio.
 
 **File name: [Loudness Enhancer DP.txt](https://github.com/somefoolouthere/audacity-macros/blob/main/loudness_enhancer/Loudness%20Enhancer%20DP.txt)**
 
